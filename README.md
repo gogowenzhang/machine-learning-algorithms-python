@@ -1,4 +1,4 @@
-# Machine Learning Algorithm Implementation
+# Machine Learning Algorithms Implementation
 
 ### Supervised Learning
 * [Linear Regression](https://github.com/gogowenzhang/machine_learning_algorithm_python/tree/master/linear_regression)
