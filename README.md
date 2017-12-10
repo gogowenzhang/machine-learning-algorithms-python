@@ -9,6 +9,7 @@
 
 ### Unsupervised Learning
 * [k-nearest Neighbors](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/k_nearest_neighbors)
+* [Non-negative matrix factorization](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/NMF)
 * [Recommendation System](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/recommenders)
 
 ### Testing
