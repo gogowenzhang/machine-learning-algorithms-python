@@ -1,5 +1,7 @@
 # Machine Learning Algorithms Implementation
 
+For learning and practice purpose, I implemented these algorithms in python. 
+
 ### Supervised Learning
 * [Linear Regression](https://github.com/gogowenzhang/machine_learning_algorithm_python/tree/master/linear_regression)
 * [Logistic Regression](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/logistic_regression)
