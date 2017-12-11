@@ -14,7 +14,7 @@ For learning and practice purpose, I implemented these algorithms in python.
 * [Non-negative matrix factorization](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/NMF)
 * [Recommendation System](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/recommenders)
   * [Collaborative_Filtering](https://github.com/gogowenzhang/machine-learning-algorithms-python/tree/master/recommenders/collaborative_filtering)
-  * [Matrix_Factorization]https://github.com/gogowenzhang/machine-learning-algorithms-python/tree/master/recommenders/matrix_factorization)
+  * [Matrix_Factorization](https://github.com/gogowenzhang/machine-learning-algorithms-python/tree/master/recommenders/matrix_factorization)
 
 ### Testing
 * [Multi-Armed Bandit problem](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/mult_armed_bandit)
