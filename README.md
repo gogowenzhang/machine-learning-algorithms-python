@@ -1,6 +1,6 @@
 # Machine Learning Algorithms Implementation
 
-For learning and practice purpose, I implemented these algorithms in python. 
+This is a collection of machine learning algorithms implemented in python. Purpose: learning and practice. 
 
 ### Supervised Learning
 * [Linear Regression(Gradient Descent)](https://github.com/gogowenzhang/machine_learning_algorithm_python/tree/master/linear_regression)
