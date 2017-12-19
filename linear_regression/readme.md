@@ -1,5 +1,7 @@
 # Linear Regression
 
+This linear regression was implemented with gradient descent method. 
+
 ### Test with generated dataset
 ```
 from sklearn.datasets import make_regression
