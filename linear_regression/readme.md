@@ -2,6 +2,8 @@
 
 This linear regression was implemented with gradient descent method. 
 
+![cost function and gradient](https://github.com/gogowenzhang/machine-learning-algorithms-python/tree/master/img)
+
 ### Test with generated dataset
 ```
 from sklearn.datasets import make_regression
