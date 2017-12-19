@@ -1,8 +1,10 @@
 # Linear Regression
 
 ### Test with generated dataset
+```
 from sklearn.datasets import make_regression
 X, y, coef = make_regression(n_features=10, coef=True)
+```
 
 ### In a terminal, you should be able to run your function like this:
 ```
