@@ -1,5 +1,3 @@
-# Linear Regression
-
 This linear regression was implemented with gradient descent method. 
 
 ![cost function and gradient](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/slide_31.jpg)
