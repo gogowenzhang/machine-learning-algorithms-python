@@ -2,20 +2,20 @@
 
 Implemented Logistic Regression using gradient descent as optimization method.
 
-# Loss Function
+### Loss Function
 The probability function: ![hypothesis](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/hypothesis.png)
 
 The likelihood function: ![likehood](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/likelihood.png)
 
 The loss function: ![loss](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/cost.png)
 
-# Gradient Descent
-Gradient of the loss function: [gradient](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/gradient.png)
+### Gradient Descent
+Gradient of the loss function: ![gradient](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/gradient.png)
 
-Each partial derivative: [partial](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/partial.png)
+Each partial derivative: ![partial](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/partial.png)
 
 
-# Test with generated dataset
+### Test with generated dataset
 ```
 from sklearn.datasets import make_classification
 X, y = make_classification(n_samples=100,
@@ -26,7 +26,7 @@ X, y = make_classification(n_samples=100,
                             random_state=0)
 ```
 
-# In a terminal, you should be able to run your function like this:
+### In a terminal, you should be able to run your function like this:
 ```import logistic_regression_functions as f
 from GradientDescent import GradientDescent
 gd = GradientDescent(f.cost, f.gradient, f.predict)
@@ -35,10 +35,10 @@ print "coeffs:", gd.coeffs
 predictions = gd.predict(X)
 ```
 
-# Stochastic gradient descent
+### Stochastic gradient descent
 gd.fit_stochastic(X, y)
 
 
-# Package Dependencies
+### Package Dependencies
 numpy==1.13.1
 sklearn==0.18.1
