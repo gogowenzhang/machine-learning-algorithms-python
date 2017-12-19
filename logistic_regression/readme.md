@@ -3,11 +3,11 @@
 Implemented Logistic Regression using gradient descent as optimization method.
 
 # Loss Function
-The probability function: [hypothesis](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/hypothesis.png)
+The probability function: ![hypothesis](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/hypothesis.png)
 
-The likelihood function: [likehood](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/likelihood.png)
+The likelihood function: ![likehood](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/likelihood.png)
 
-The loss function: [loss](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/cost.png)
+The loss function: ![loss](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/cost.png)
 
 # Gradient Descent
 Gradient of the loss function: [gradient](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/gradient.png)
