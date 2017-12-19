@@ -41,4 +41,5 @@ gd.fit_stochastic(X, y)
 
 ### Package Dependencies
 numpy==1.13.1
+
 sklearn==0.18.1
