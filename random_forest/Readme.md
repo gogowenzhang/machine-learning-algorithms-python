@@ -29,3 +29,5 @@ rf.fit(X_train, y_train)
 y_predict = rf.predict(X_test)
 print "score:", rf.score(X_test, y_test)
 ```
+Dependencies:
+numpy==1.13.1
