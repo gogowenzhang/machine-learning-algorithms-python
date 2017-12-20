@@ -36,7 +36,9 @@ predictions = gd.predict(X)
 ```
 
 ### Stochastic gradient descent
+```
 gd.fit_stochastic(X, y)
+```
 
 
 ### Package Dependencies
