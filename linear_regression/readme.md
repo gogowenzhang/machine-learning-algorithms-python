@@ -20,5 +20,4 @@ predictions = gd.predict(X)
 
 Package Dependencies:
 - numpy==1.13.1
-- pandas==0.19.2
 - sklearn==0.18.1
