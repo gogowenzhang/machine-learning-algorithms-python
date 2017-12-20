@@ -1,6 +1,6 @@
-# Linear Regression
-
 This linear regression was implemented with gradient descent method. 
+
+![cost function and gradient](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/slide_31.jpg)
 
 ### Test with generated dataset
 ```
@@ -20,5 +20,4 @@ predictions = gd.predict(X)
 
 Package Dependencies:
 - numpy==1.13.1
-- pandas==0.19.2
 - sklearn==0.18.1
