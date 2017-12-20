@@ -5,6 +5,7 @@ function BuildTree:
     or there is no feature left to split the data:
         return a leaf node with the class label
     Else:
+        randomly choose a subset of the features
         find the best feature and value to split the data
         split the dataset
         create a node
