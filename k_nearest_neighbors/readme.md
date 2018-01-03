@@ -24,7 +24,7 @@ Angle
 
 *Cosine* similarity is another commonly used distance metric. It's measuring the angle between the two vectors:
 
-$$ d(\mathbf{a}, \mathbf{b}) = \frac{\mathbf{a} \cdot \mathbf{b}}{||\mathbf{a}||  ||\mathbf{b}||} $$
+![cosine](https://latex.codecogs.com/gif.latex?d(\mathbf{a},&space;\mathbf{b})&space;=&space;\frac{\mathbf{a}&space;\cdot&space;\mathbf{b}}{||\mathbf{a}||&space;||\mathbf{b}||})
 
 ## To run this code
 ```
