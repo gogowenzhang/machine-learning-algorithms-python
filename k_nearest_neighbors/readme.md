@@ -1,6 +1,6 @@
 ## KNN: non-parametric-classifier
 
-Pseudocode: 
+### Pseudocode: 
 ```
 kNN:
     for every point in the dataset:
