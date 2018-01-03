@@ -11,7 +11,7 @@ This is a collection of machine learning algorithms implemented in python. Purpo
 * [K-nearest Neighbors](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/k_nearest_neighbors)
 
 ### Unsupervised Learning
-* [k-means](https://github.com/gogowenzhang/machine-learning-algorithms-python/tree/master/K-means_clustering)
+* [K-means Clustering](https://github.com/gogowenzhang/machine-learning-algorithms-python/tree/master/K-means_clustering)
 * [Non-negative matrix factorization](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/NMF)
 * [Recommendation System](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/recommenders)
   * [Collaborative Filtering](https://github.com/gogowenzhang/machine-learning-algorithms-python/tree/master/recommenders/collaborative_filtering)
