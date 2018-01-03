@@ -23,7 +23,7 @@ To run compare the result of my implementation and sklearn's implementation, in 
 python src/run_naive_bayes.py
 ```
 
-The dataset used in the comparason can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.names)
+The dataset used in the comparison can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.names)
 
 
 Package Dependencies:
