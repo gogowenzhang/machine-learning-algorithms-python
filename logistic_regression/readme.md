@@ -3,7 +3,7 @@
 Implemented Logistic Regression using gradient descent as optimization method.
 
 ### Loss Function
-The hypothesis function:      ![hypothsis](https://latex.codecogs.com/gif.latex?\inline&space;h_\beta&space;(x_i)&space;=&space;\frac{1}{1&plus;e^{\beta&space;x_i}})
+The hypothesis function:      ![hypothsis](https://latex.codecogs.com/gif.latex?\inline&space;\dpi{200}&space;h_\beta&space;(x_i)&space;=&space;\frac{1}{1&plus;e^{\beta&space;x_i}})
 
 The probability for y=1:      ![prop_1](https://latex.codecogs.com/gif.latex?h_\beta&space;(x_i))
 
