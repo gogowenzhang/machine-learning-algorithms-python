@@ -9,7 +9,7 @@ The probability for y=1:      ![prop_1](https://latex.codecogs.com/gif.latex?\dp
 
 The probability for y=0:      ![prop_0](https://latex.codecogs.com/gif.latex?\dpi{200}&space;P(y_i=0|x_i)&space;=&space;1&space;-&space;h_\beta&space;(x_i)&space;\,)
 
-Generally: ![](https://latex.codecogs.com/gif.latex?\dpi{200}&space;P(y_i|x_i)&space;=&space;y_i&space;h_\beta&space;(x_i)&space;&plus;&space;(1-y_i)(1&space;-&space;h_\beta&space;(x_i)))
+Generally: ![](https://latex.codecogs.com/gif.latex?\dpi{200}&space;P(y_i|x_i)&space;=&space;h_\beta&space;(x_i)^{y_i}&space;(1&space;-&space;h_\beta&space;(x_i))^{1-y_i})
 
 The log likelihood function: ![likehood](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/likelihood.png)
 
