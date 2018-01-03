@@ -1,4 +1,4 @@
-This linear regression was implemented with gradient descent method. 
+This linear regression was implemented with gradient descent algorithm. 
 
 ![cost function and gradient](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/slide_31.jpg)
 
