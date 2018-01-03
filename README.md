@@ -8,7 +8,7 @@ This is a collection of machine learning algorithms implemented in python. Purpo
 * [Desicion Tree and Random Forest](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/random_forest)
 * [Adaboosting](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/adaboost)
 * [Naive Bayes](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/naive_bayes)
-* [k-nearest Neighbors](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/k_nearest_neighbors)
+* [K-nearest Neighbors](https://github.com/gogowenzhang/ml_algorithm_python/tree/master/k_nearest_neighbors)
 
 ### Unsupervised Learning
 
