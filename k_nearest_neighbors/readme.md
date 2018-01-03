@@ -16,7 +16,7 @@ Straight line, L2
 
 *Euclidean* distance is the distance metric you've probably heard of before:
 
-$$ d(\mathbf{a}, \mathbf{b}) = ||\mathbf{a} - \mathbf{b}|| \ = \sqrt{\sum (a_i - b_i)^2} $$
+![enclidean](<a href="https://www.codecogs.com/eqnedit.php?latex=d(\mathbf{a},&space;\mathbf{b})&space;=&space;||\mathbf{a}&space;-&space;\mathbf{b}||&space;\&space;=&space;\sqrt{\sum&space;(a_i&space;-&space;b_i)^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?d(\mathbf{a},&space;\mathbf{b})&space;=&space;||\mathbf{a}&space;-&space;\mathbf{b}||&space;\&space;=&space;\sqrt{\sum&space;(a_i&space;-&space;b_i)^2}" title="d(\mathbf{a}, \mathbf{b}) = ||\mathbf{a} - \mathbf{b}|| \ = \sqrt{\sum (a_i - b_i)^2}" /></a>)
 
 ### Cosine Similarity
 
