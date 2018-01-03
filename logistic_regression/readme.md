@@ -11,7 +11,9 @@ The probability for y=0:      ![prop_0](https://latex.codecogs.com/gif.latex?\dp
 
 Generally: ![](https://latex.codecogs.com/gif.latex?\dpi{200}&space;P(y_i|x_i)&space;=&space;h_\beta&space;(x_i)^{y_i}&space;(1&space;-&space;h_\beta&space;(x_i))^{1-y_i})
 
-The log likelihood function: ![likehood](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/likelihood.png)
+Likelihood function: ![likelihodd](https://latex.codecogs.com/gif.latex?\dpi{200}&space;L(\beta)&space;=&space;\prod_i&space;h_\beta&space;(x_i)^{y_i}&space;(1&space;-&space;h_\beta&space;(x_i))^{1-y_i})
+
+log transform of likelihood function: ![log likelihood](https://latex.codecogs.com/gif.latex?\dpi{200}&space;\sum_i&space;y_i&space;log(&space;h_\beta&space;(x_i))&space;&plus;&space;(1-y_i)&space;log&space;(1&space;-&space;h_\beta&space;(x_i)))
 
 The loss function: ![loss](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/logistic_regression/img/cost.png)
 
