@@ -8,7 +8,24 @@ Posteriors function: ![posteriors](https://github.com/gogowenzhang/machine-learn
 
 
 ### How to run:
-To test this implementation, I will use 'data/spam.csv' dataset. Information of the dataset can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.names)
+In terminal, you should be able to run:
+```
+from src.naive_bayes import NaiveBayes
+my_nb = NaiveBayes()
+my_nb.fit(X_train, y_train)
+print 'Accuracy:', my_nb.score(X_test, y_test)
+my_predictions =  my_nb.predict(X_test)
+```
+
 
 To run compare the result of my implementation and sklearn's implementation, in terminal: 
-```python src/run_naive_bayes.py```
+```
+python src/run_naive_bayes.py
+```
+
+The dataset used in the comparason can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.names)
+
+
+Package Dependencies:
+- numpy==1.13.1
+- sklearn==0.18.1
