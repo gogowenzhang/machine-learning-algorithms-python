@@ -3,12 +3,11 @@ import numpy as np
 class NMF(object):
     """A Non-Negative Matrix Factorization (NMF) model using the Alternating Least
     Squares (ALS) algorithm."""
+    
     def __init__(self, k=10, max_iter=100, threshold=0.1):
-        self.V = None
+
         self.k = k
         self.max_iter = max_iter
-        self.W = None
-        self.H = None
         self.threshold = threshold
 
     def fit(self, V):
