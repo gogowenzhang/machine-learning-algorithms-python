@@ -20,11 +20,13 @@ class NMF(object):
             self.W = np.linalg.lstsq(self.H.T, self.V.T)[0].T.clip(min=0)
             if i >=2 and self.reconstruction_error() < self.threshold:
                 break
-        return self
+        return self.W, self.H
 
     def reconstruction_error(self):
-        cost = self.V-np.dot(self.W, self.H)
-        return np.sqrt(np.sum(cost**2))
+        '''
+        matrix L2-norm of the residual matrix.
+        '''
+        return np.linalg.norm(self.V - self.W.dot(self.H))
 
 
 
