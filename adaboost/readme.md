@@ -1,4 +1,12 @@
-### Adaboost pseudocode:
+## Adaboost 
+### Key points
+* Adaptive Boosting
+* adds together many weak estimators
+* at each step, each sample point is re-weighted based on whether it was correctly classified in the previous step
+* each estimator also gets a weight depending on its misclassification rate
+
+
+### Pseudocode:
 ![adaboost](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/adaboost.png)
 
 
