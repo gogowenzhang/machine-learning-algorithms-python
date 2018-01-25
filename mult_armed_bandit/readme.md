@@ -18,4 +18,4 @@ print("Conversion rates: ", strat.wins / strat.trials)
 print("A total of %d wins of %d trials." % \
     (strat.wins.sum(), strat.trials.sum()))
 ```
-### Available strategy:  epsilon-greedy, softmax, ucb1 and bayesian bandits
+Available strategy:  epsilon-greedy, softmax, ucb1 and bayesian bandits
