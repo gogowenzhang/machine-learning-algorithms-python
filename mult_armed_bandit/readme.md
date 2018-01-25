@@ -3,6 +3,7 @@
 # Use this code you can see how different strategies
 performs in Multi-arm bandit problem. 
 
+```
 from bandits import Bandits
 from banditstrategy import BanditStrategy
 
@@ -14,5 +15,5 @@ print("Number of wins: ", strat.wins)
 print("Conversion rates: ", strat.wins / strat.trials)
 print("A total of %d wins of %d trials." % \
     (strat.wins.sum(), strat.trials.sum()))
-
+```
 # Available strategy:  epsilon-greedy, softmax, ucb1 and bayesian bandits
