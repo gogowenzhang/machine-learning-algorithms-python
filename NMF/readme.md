@@ -1,9 +1,13 @@
 ## NMF: Non-Negative Matrix Factorization
 
+![NMF](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization#/media/File:NMF.png)
+
 There are a couple ways to sovling NMF. This implementaion adapted Alternating Least Squares (ALS) algorithm. 
 
 We are trying to find matrics, W and H such that:
             V ~ W * H       w_i,j & h_i,j >= 0
+
+
 
 ### Pseudocode of ALS:
 ```
