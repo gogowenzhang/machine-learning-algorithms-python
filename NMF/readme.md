@@ -1,6 +1,6 @@
 ## NMF: Non-Negative Matrix Factorization
 
-<img src="https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/NMF.png" width='600' height='250'>
+<img src="https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/NMF.png" width='800' height='200'>
 
 There are a couple ways to sovling NMF. This implementaion adapted Alternating Least Squares (ALS) algorithm. 
 
