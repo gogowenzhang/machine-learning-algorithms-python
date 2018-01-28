@@ -7,7 +7,7 @@
 
 
 ### Pseudocode:
-![adaboost](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/adaboost.png)
+<img src="https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/adaboost.png" width='600' height='300'>
 
 
 ### In terminal you should be able to run this code:
