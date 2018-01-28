@@ -4,7 +4,8 @@ Likelihood function with Laplace smoothing:
 
 <img src="https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/likelihood.png" width='300' height='100'>
 
-Posteriors function: ![posteriors](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/posterior.png)
+Posteriors function: <img src="https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/posterior.png" width='300' height='100'>
+
 
 
 ### How to run:
