@@ -1,6 +1,6 @@
 This linear regression was implemented with gradient descent algorithm. 
 
-![cost function and gradient](https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/slide_31.jpg)
+<img src="https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/linear-regression.png" width='600' height='500'>
 
 ### Test with generated dataset
 ```
