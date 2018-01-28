@@ -6,7 +6,7 @@ Likelihood function with Laplace smoothing:
 
 Posteriors function: 
 
-<img src="https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/posterior.png" width='400' height='100'>
+<img src="https://github.com/gogowenzhang/machine-learning-algorithms-python/blob/master/img/posterior.png" width='500' height='80'>
 
 
 
